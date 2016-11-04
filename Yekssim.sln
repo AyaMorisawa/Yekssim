@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yekssim", "Yekssim.csproj", "{D3F0ED71-50EA-4E52-A869-84EBD76DFFC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yekssim.Example", "Yekssim.Example\Yekssim.Example.csproj", "{49AA59F9-BBE7-4533-A583-A144C379DCFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3F0ED71-50EA-4E52-A869-84EBD76DFFC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3F0ED71-50EA-4E52-A869-84EBD76DFFC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3F0ED71-50EA-4E52-A869-84EBD76DFFC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3F0ED71-50EA-4E52-A869-84EBD76DFFC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49AA59F9-BBE7-4533-A583-A144C379DCFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49AA59F9-BBE7-4533-A583-A144C379DCFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49AA59F9-BBE7-4533-A583-A144C379DCFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49AA59F9-BBE7-4533-A583-A144C379DCFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
